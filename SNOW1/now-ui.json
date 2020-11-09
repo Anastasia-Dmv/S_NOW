@@ -1,0 +1,15 @@
+{
+  "components": {
+    "x-552903-card-list": {
+      "innerComponents": [],
+      "uiBuilder": {
+        "associatedTypes": ["global.core", "global.landing-page"],
+        "label": "My Component",
+        "icon": "document-outline",
+        "description": "Card-list",
+        "category": "primitives"
+      }
+    }
+  },
+  "scopeName": "x_552903_test_ca_0"
+}
